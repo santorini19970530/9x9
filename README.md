@@ -8,3 +8,7 @@ date: 10 APR 2023
 1. print out a matrix of multiplications
 
 2. from 1 to 9 only
+
+* My reference
+
+DL0003
